@@ -1,0 +1,34 @@
+# Assets Directory
+
+This directory contains static assets for the ALX Listing App.
+
+## Structure
+
+- `images/` - Property images, user avatars, and other graphics
+- `icons/` - SVG icons and favicons
+- `fonts/` - Custom font files (if any)
+
+## Image Guidelines
+
+- Use WebP format for better compression when possible
+- Optimize images for web (compress file sizes)
+- Use descriptive filenames (e.g., `apartment-1.jpg`, `beach-house-1.jpg`)
+- Maintain consistent aspect ratios for property images (16:9 recommended)
+
+## Naming Convention
+
+- Use kebab-case for filenames
+- Include descriptive names that match the content
+- Add version numbers if needed (e.g., `logo-v2.svg`)
+
+## Sample Images Needed
+
+For the sample cards in constants/index.ts, you'll need:
+- apartment-1.jpg
+- beach-house-1.jpg  
+- cabin-1.jpg
+- penthouse-1.jpg
+- brownstone-1.jpg
+- villa-1.jpg
+
+These should be placed directly in the `/public/assets/` directory.
